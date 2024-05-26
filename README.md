@@ -1,5 +1,5 @@
-矩阵计算在信号处理，数值分析，人工智能，量子力学等很多领域中都有应用，在本项目中我们将设计一个32X32的矩阵计算单元，对于每一个矩阵小单元，它有8位，总共包含四个计算单元，所以对于每一次的运算，它可以处理四次乘法。
+Matrix computation finds applications in many fields such as signal processing, numerical analysis, artificial intelligence, quantum mechanics, and more. In this project, we will design a 32x32 matrix computation unit. Each matrix element is 8 bits, and the unit contains a total of four computation units. Therefore, for each operation, it can handle four multiplications simultaneously.
 ![alt text](image.png)
-本次设计的模块图如下：
+The module diagram of this design is as follows:
 ![alt text](image-1.png)
 
