@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+矩阵计算在信号处理，数值分析，人工智能，量子力学等很多领域中都有应用，在本项目中我们将设计一个32X32的矩阵计算单元，对于每一个矩阵小单元，它有8位，总共包含四个计算单元，所以对于每一次的运算，它可以处理四次乘法。
+![alt text](image.png)
+本次设计的模块图如下：
+![alt text](image-1.png)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
